@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=150&section=header&text=Hi%20There👋🏻"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=header&text=Hi%20There👋🏻"></img>
 <br>전기전자 16.3.2~ 22. 02
 <br>Superconductor 22. 1 ~ 23. 04
 <br>프로그래밍 23.09.13 ~ ing
@@ -26,7 +26,10 @@
 <br>**Made with**
 <br>![js](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=150&section=footer" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJeongHyun)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=footer" />
 
 
 <!--
