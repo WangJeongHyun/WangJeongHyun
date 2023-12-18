@@ -1,16 +1,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=header&text=Hi%20There👋🏻"></img>
-<br>전기전자 16.3.2~ 22. 02
+
+Major
+=============
+>전기전자 16.3.2~ 22. 02
 <br>프로그래밍 23.09.13 ~ ing
 
+
 - 🔭 I’m currently working on ...
-  <br>Automonous
+  <br>Automonous Project
 
 - 📫 How to reach me
 <br>vvang77am@gmail.com
 
 <br>
-🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning ...
   
 <br>**💻 OS**
 <br>![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -24,7 +29,7 @@
 ![js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br>**Made with**
 <br>![js](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-
+---------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJeongHyun)](https://github.com/anuraghazra/github-readme-stats)
 
 
