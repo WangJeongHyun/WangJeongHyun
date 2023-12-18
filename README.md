@@ -1,7 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=header&text=Hi%20There👋🏻"></img>
 <br>전기전자 16.3.2~ 22. 02
-<br>Superconductor 22. 1 ~ 23. 04
 <br>프로그래밍 23.09.13 ~ ing
 
 - 🔭 I’m currently working on ...
