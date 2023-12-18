@@ -1,14 +1,34 @@
-### Hi there 👋
 
-전기전자 16.3.2~ 22. 02
-Superconductor 22. 1 ~ 23. 04
-프로그래밍 23.09.13 ~ ing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=150&section=header&text=Hi%20There👋🏻"></img>
+<br>전기전자 16.3.2~ 22. 02
+<br>Superconductor 22. 1 ~ 23. 04
+<br>프로그래밍 23.09.13 ~ ing
 
-- 🔭 I’m currently working on ... Automonous
-- 🌱 I’m currently learning ... Intel AI 
-- 📫 How to reach me: vvang77am@gmail.com
+- 🔭 I’m currently working on ...
+  <br>Automonous
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+- 📫 How to reach me
+<br>vvang77am@gmail.com
+
+<br>
+🌱 I’m currently learning ...
+  
+<br>**💻 OS**
+<br>![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>**🚀 Skills**
+<br>![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>**⚡ Database**
+<br>![js](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<br>**Made with**
+<br>![js](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
 <!--
 **WangJeongHyun/WangJeongHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
