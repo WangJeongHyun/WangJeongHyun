@@ -26,7 +26,7 @@
 <br>**Made with**
 <br>![js](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=150&section=footer" />
 
 
 <!--
