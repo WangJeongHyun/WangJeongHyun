@@ -1,5 +1,8 @@
 ### Hi there 👋
-전기전자전공/ 프로그래밍 23.09.13 ~ ing
+전기전자 16.3.2~ 22. 02
+Superconductor 22. 1 ~ 23. 04
+프로그래밍 23.09.13 ~ ing
+
 - 🔭 I’m currently working on ... Automonous
 - 🌱 I’m currently learning ... Intel AI 
 - 📫 How to reach me: vvang77am@gmail.com
