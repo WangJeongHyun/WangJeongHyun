@@ -7,12 +7,12 @@ Major
 <br>인텔 edge AI SW 23.09.13 ~ 24.03.31
 <br>
 
-###🔭 I’m currently working on ...
+**🔭 I’m currently working on ...**
   <br>
-  **embedded firmware**
+  embedded firmware
   <br>
 
-###📫 How to reach me
+**📫 How to reach me**
 <br>vvang77am@gmail.com
 
 <br>
