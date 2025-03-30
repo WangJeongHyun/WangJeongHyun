@@ -4,18 +4,18 @@
 Major
 =============
 >전기전자 16.3.2~ 22. 02
-<br>프로그래밍 23.09.13 ~ ing
+>인텔 edge AI SW 23.09.13 ~ 24.03.31
+<br>
 
 
-- 🔭 I’m currently working on ...
-  <br>Automonous Project
+####🔭 I’m currently working on ...
+  **embedded firmware**
+  <br>
 
-- 📫 How to reach me
+####📫 How to reach me
 <br>vvang77am@gmail.com
 
 <br>
-
-- 🌱 I’m currently learning ...
   
 <br>**💻 OS**
 <br>![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
