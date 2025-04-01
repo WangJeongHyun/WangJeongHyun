@@ -1,10 +1,11 @@
+![image](https://github.com/user-attachments/assets/f64d685a-90e7-41af-889f-3b4b8ed290d7)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=header&text=Hi%20There👋🏻"></img>
 
 Major
 =============
 >전기전자 16.3.2~ 22. 02
-<br>인텔 EDGE AI SW 23.09.13 ~ 24.03.31
+<br>인텔 Edge AI SW 23.09.13 ~ 24.03.31
 <br>
 
 **🖥️ I’m currently working on ...**
