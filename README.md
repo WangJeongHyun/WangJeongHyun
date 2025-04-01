@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f64d685a-90e7-41af-889f-3b4b8ed290d7)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AAAAB4&height=150&section=header&text=Hi%20There👋🏻"></img>
 
 Major
@@ -22,10 +20,10 @@ Major
 <br>![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>**🚀 Skills**
-<br>![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<br>![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<br>**⚡ Database**
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<br>**⚡ MCU**
 <br>![js](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br>**Made with**
