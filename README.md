@@ -4,12 +4,12 @@
 Major
 =============
 >전기전자 16.3.2~ 22. 02
-<br>인텔 edge AI SW 23.09.13 ~ 24.03.31
+<br>인텔 EDGE AI SW 23.09.13 ~ 24.03.31
 <br>
 
-**🔭 I’m currently working on ...**
+**🖥️ I’m currently working on ...**
   <br>
-  embedded firmware
+  Embedded Firmware Engineer
   <br>
 
 **📫 How to reach me**
